@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main extends CheckValue {
+public class Main  {
     public static void main(String[] args) {
 
         System.out.println("Zadanie 4 - Enum w Javie\nZadanie Karty do gry ♣ ♦ ♥ ♠");
